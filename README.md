@@ -80,7 +80,8 @@ send signals by keyboard to do ✨stuff✨.
 * [qemu](https://www.qemu.org/)
 * [osdev wiki](https://wiki.osdev.org/Main_Page)
 * [osdev linker scripts](https://wiki.osdev.org/Linker_Scripts)
-
+* [torvalds/linux](https://github.com/torvalds/linux)
+* [Linux Kernel Youtube video](https://www.youtube.com/watch?v=JRyrhsx-L5Y)
 ## FAQ
 
 * When you run `make` and you get an error along the lines of 

@@ -13,7 +13,7 @@ void initPIC(unsigned char offset) {
 
     outb(PIC0_CTRL, 0x11); // send init command
     outb(PIC0_DATA, offset);
-    outb(PIC0_DATA, 4);    // set PIC1 location
+    outb(PIC0_DATA, 4);    // set PIC0 location
     outb(PIC0_DATA, 0x01); // use 8086 mode
 
     outb(PIC1_CTRL, 0x11); // send init command
